@@ -59,7 +59,7 @@ Additionally, it provides actionable inventory transfer recommendations between 
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/inventory-prediction-system.git
+   git clone https://github.com/SumitRodrigues/inventory-prediction-system.git
    cd inventory-prediction-system
    ```
 
@@ -125,10 +125,6 @@ Additionally, it provides actionable inventory transfer recommendations between 
 ## 📬 Contact
 
 > **Sumit Rodrigues**  
-> Email: your.email@example.com  
-> GitHub: [yourusername](https://github.com/yourusername)
+> Email: sumitrod11@gmail.com  
+> GitHub: [SumitRodrigues](https://github.com/SumitRodrigues)
 
----
-
-Would you also like a **shorter version** of this README (around 1/3rd size) too, in case you want a more minimal clean GitHub appearance? 🚀  
-(Also let me know if you want me to generate badges like `![Made with Vue](https://img.shields.io/badge/Made%20with-Vue-brightgreen)` to make it even more stylish!)
